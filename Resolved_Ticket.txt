@@ -1,0 +1,6 @@
+ID: 2 Issue: 4wrwr4 Priority: 1 Reported by: er Reported on: Tue Apr 18 15:14:38 CDT 2017 Resolution: 4rr4 Resolved on: Tue Apr 18 15:14:45 CDT 2017
+ID: 4 Issue: heifwhui Priority: 5 Reported by: rfjij Reported on: Tue Apr 18 15:16:14 CDT 2017 Resolution: ewe Resolved on: Tue Apr 18 15:16:38 CDT 2017
+ID: 5 Issue: rwfnson Priority: 2 Reported by: fewnn Reported on: Tue Apr 18 15:16:23 CDT 2017 Resolution: rwfr Resolved on: Tue Apr 18 15:16:44 CDT 2017
+ID: 6 Issue: whduihui Priority: 2 Reported by: rfdbskh Reported on: Tue Apr 18 15:16:32 CDT 2017 Resolution: rerwe Resolved on: Tue Apr 18 15:16:51 CDT 2017
+ID: 2 Issue: w4wwer Priority: 1 Reported by: rrr Reported on: Tue Apr 18 15:17:18 CDT 2017 Resolution: rfrr Resolved on: Tue Apr 18 15:17:24 CDT 2017
+ID: 2 Issue: Hot server Priority: 4 Reported by: Dilli Reported on: Tue Apr 18 22:20:28 CDT 2017 Resolution: Fixed the problem Resolved on: Tue Apr 18 22:20:52 CDT 2017
